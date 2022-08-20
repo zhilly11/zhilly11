@@ -3,10 +3,11 @@
 <br>
 <p align="center">
     <Strong>☁️ My Blog</Strong><br>
-    <a href="https://velog.io/@zhzh1x4/" target="_blank"><img src="https://img.shields.io/badge/DevBlog-535D6C?style=flat-square&logo=Blogger&logoColor=white"/></a>  
+    <a href="https://velog.io/@zhzh1x4/" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+    <a href="https://magnetic-rosehip-bac.notion.site/aaffe193f2814f2585f9b2bc6a28b24d" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 <br><br>
-<Strong>✉️ Email</Strong>
-<br>zhzh1x4@gmail.com<br>
+<Strong>✉️ Email</Strong><br>
+    <img src="https://img.shields.io/badge/zhzh1x4@gmail.com-EA4335??style=flat-square&logo=Gmail&logoColor=white">
 </p>
 
 <br>
@@ -22,7 +23,7 @@
 
 <p align="center">
     <Strong>⚒️Tech Stack⚒️</Strong><br>
-    💡used as the main
+    💡used main
 </p>
 
 <p align="center" display="inline-block">
@@ -32,7 +33,19 @@
 </p><br>
 
 <p align="center">
-    💡used at least once
+    💡used tools
+</p>
+
+<p align="center" display="inline-block">
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
+  <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
+  <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=white">  
+  
+</p><br>
+
+<p align="center">
+    💡used before
 </p>
 
 <p align="center" display="inline-block">
@@ -45,3 +58,5 @@
 <br>
 
 <div align=center>
+
+![zhilly11's github stats](https://github-readme-stats.vercel.app/api?username=zhilly11&show_icons=true)
