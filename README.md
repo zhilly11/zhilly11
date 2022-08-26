@@ -4,7 +4,6 @@
 <p align="center">
     <Strong>☁️ My Blog</Strong><br>
     <a href="https://velog.io/@zhzh1x4/" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>
-    <a href="https://magnetic-rosehip-bac.notion.site/aaffe193f2814f2585f9b2bc6a28b24d" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
 <br><br>
 <Strong>✉️ Email</Strong><br>
     <img src="https://img.shields.io/badge/zhzh1x4@gmail.com-EA4335??style=flat-square&logo=Gmail&logoColor=white">
