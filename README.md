@@ -1,15 +1,3 @@
-</br>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=zhilly11&show_icons=true"/>
-
-
-<!--
-<img align="right" src="https://user-images.githubusercontent.com/99257965/219453712-29f26da1-0e05-4dd8-9247-40e15f84e023.png" width=300 height=150 />
--->
-
-
-
-
-
 ### Who Am I
 - 🌱 Swift와 UIKit을 공부하고 있어요.
 - 🗂️ '정리, 정돈'을 좋아해요. 무엇이든지!
@@ -31,3 +19,10 @@
 
 ### How to contact
 <a href="https://velog.io/@zhzh1x4/" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a> <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=zhzh1x4@gmail.com" target="_blank"><img src="https://img.shields.io/badge/zhzh1x4@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
+
+</br>
+<!--
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=zhilly11&show_icons=true"/>
+-->
+
+<img src="https://github-readme-stats.vercel.app/api?username=zhilly11&show_icons=true"/>
