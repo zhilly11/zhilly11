@@ -1,61 +1,33 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome%20zhilly's%20Github&fontSize=70&animation=fadeIn&fontAlignY=38&)
+</br>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=zhilly11&show_icons=true"/>
 
-<br>
-<p align="center">
-    <Strong>☁️ My Blog</Strong><br>
-    <a href="https://velog.io/@zhzh1x4/" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>
-<br><br>
-<Strong>✉️ Email</Strong><br>
-    <img src="https://img.shields.io/badge/zhzh1x4@gmail.com-EA4335??style=flat-square&logo=Gmail&logoColor=white">
-</p>
 
-<br>
+<!--
+<img align="right" src="https://user-images.githubusercontent.com/99257965/219453712-29f26da1-0e05-4dd8-9247-40e15f84e023.png" width=300 height=150 />
+-->
 
-<p align="center">
-반갑습니다👐<br>
-제 이름은 최지혁이고 iOS를 공부하고 있어요!<br>
-대학교를 졸업하고 현재는 야곰 커리어 스타트 캠퍼로 활동하고 있어요!<br>
-기록의 중요성을 깨닫고 매일 꾸준히 TIL을 작성 중입니다!</br>
-</p>
 
-<br>
 
-<p align="center">
-    <Strong>⚒️Tech Stack⚒️</Strong><br>
-    💡used main
-</p>
 
-<p align="center" display="inline-block">
-  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=Apple&logoColor=white">
-  
-</p><br>
 
-<p align="center">
-    💡used tools
-</p>
+### Who Am I
+- 🌱 Swift와 UIKit을 공부하고 있어요.
+- 🗂️ '정리, 정돈'을 좋아해요. 무엇이든지!
+- 📚 꾸준한 성장이 목표입니다.
 
-<p align="center" display="inline-block">
-  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
-  <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
-  <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=white">  
-  
-</p><br>
+### What I experienced
+- 🐻 야곰아카데미 커리어스타터 캠프 7기 (2022.08 ~ 2023.02)
+- 🎓 안양대학교 컴퓨터공학과 (2016.03 ~ 2022.02)
+- 💪 안양대학교 스마트창의융합대학 학생회장 (2021.01 ~ 2021.12)
 
-<p align="center">
-    💡used before
-</p>
+### What I Like
+- 🎧 음악
+- 🎬 마블
+- 🎮 게임
 
-<p align="center" display="inline-block">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-</p>
+### What I Use
+<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"> <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=Apple&logoColor=white"> <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
 
-<br>
-
-<div align=center>
-
-![zhilly11's github stats](https://github-readme-stats.vercel.app/api?username=zhilly11&show_icons=true)
+### How to contact
+<a href="https://velog.io/@zhzh1x4/" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a> <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=zhzh1x4@gmail.com" target="_blank"><img src="https://img.shields.io/badge/zhzh1x4@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
