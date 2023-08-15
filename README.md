@@ -1,18 +1,13 @@
 ### Who Am I
 - 🌱 Swift와 UIKit을 공부하고 있어요.
 - 🗂️ '정리, 정돈'을 좋아해요. 무엇이든지!
-- 🤔 무엇이든 좋은 방향으로 나아갈 수 있게 고민합니다.
+- 🤔 이유있는 코드, 깔끔한 코드를 작성하기위해 고민합니다.
 - 📚 함께하는 지속적인 성장이 목표입니다.
 
 ### What I experienced
-- 🐻 야곰아카데미 커리어스타터 캠프 7기 수료 (2022.08 ~ 2023.02)
+- 🐻 야곰아카데미 커리어스타터 캠프 수료 (2022.08 ~ 2023.02)
 - 🎓 안양대학교 컴퓨터공학과 졸업 (2016.03 ~ 2022.02)
 - 💪 안양대학교 스마트창의융합대학 학생회장 (2021.01 ~ 2021.12)
-
-### What I Like
-- 🎧 음악
-- 🎬 마블
-- 🎮 게임
 
 ### What I Use
 <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"> <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=Apple&logoColor=white"> <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white">
