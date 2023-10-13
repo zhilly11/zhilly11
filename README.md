@@ -5,7 +5,7 @@
 - 📚 함께 일하면 재밌는 개발자가 되고싶어요 :)
 
 ### Experienced
-- 🐻 [야곰아카데미 커리어스타터](https://www.yagom-academy.kr/camp/career-starter) (2022.08 ~ 2023.02)
+- 🐻 [야곰아카데미 커리어스타터](https://github.com/zhilly11/ios-yagom-camp) (2022.08 ~ 2023.02)
 - 🎓 안양대학교 컴퓨터공학과 (2016.03 ~ 2022.02)
 
 ### What I Use
@@ -24,7 +24,7 @@
 -->
 
 ### How to contact
-<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=zhzh1x4@gmail.com" target="_blank"><img src="https://img.shields.io/badge/zhzh1x4@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a> <a href="https://velog.io/@zhzh1x4/" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a> <a href="https://discord.com" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white"/></a>
+<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=zhzh1x4@gmail.com" target="_blank"><img src="https://img.shields.io/badge/zhzh1x4@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a> <a href="https://velog.io/@zhzh1x4/" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a> <a href="https://discord.com" target="_blank"><img src="https://img.shields.io/badge/zhilly-5865F2?style=for-the-badge&logo=Discord&logoColor=white"/></a>
 
 </br>
 <!--
