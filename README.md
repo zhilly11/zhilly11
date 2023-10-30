@@ -15,7 +15,7 @@
 | Language         | `Swift` |
 | VersionControl   | `Git` `GitFlow` |
 | FirstParty       | `UIKit` `SwiftUI` `async/await` |
-| ThirdParty       | `TCA` `SnapKit` `RxSwift` |
+| ThirdParty       | `TCA` `SnapKit` `RxSwift` `Then` |
 | Architecture     | `MVC` `MVVM` `MVP` `TCA` |
 
 <!--
